@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1,
+    "name": "HP 17-25n",
+    "image": "https://m.media-amazon.com/images/I/71ZUFlO6wsL._AC_UY218_.jpg",
+    "description": "HP 17 HD+ Laptop, 2023 Newest Upgrade, Intel Core i3-1125G4 (Quad-core), 32GB RAM, 1TB SSD, Webcam, Wi-Fi, HDMI, USB-C, Fast Charge,Bluetooth, Windows 11, School and Business Ready, ROKC HDMI Cable",
+    "price": "$649.99",
+    "category": "HP"
+  },
+  {
+    "id": 2,
+    "name": "HP 18-21n",
+    "image": "https://m.media-amazon.com/images/I/71zVC5mNV+L._AC_SX425_.jpg",
+    "description": "HP 2023 Newest Upgraded Touch-Screen Laptops for College Student & Business, 15.6 inch HD Computer, Intel Core i3-1115G4(2-Core), 32GB RAM, 1TB SSD, Wi-Fi, HDMI, Webcam, Windows 11, ROKC HDMI Cable",
+    "price": "$539.99",
+    "category": "HP"
+  },
+  {
+    "id": 3,
+    "name": "HP 15-dy5599nr",
+    "image": "https://m.media-amazon.com/images/I/71jcs5zlkzL._AC_SX569_.jpg",
+    "description": "HP 15 inch Laptop, FHD Display, Intel Core i3-1215U, 8 GB RAM, 128 GB SSD, Intel UHD Graphics, Windows 11 Home in S Mode, 15-dy5599nr (2023)",
+    "price": "$309.75",
+    "category": "HP"
+  },
+  {
+    "id": 4,
+    "name": "Lenovo Ideapad 3i",
+    "image": "https://m.media-amazon.com/images/I/61ZQGFMxi9L._AC_SX569_.jpg",
+    "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6 FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+    "price": "$495.46",
+    "category": "Lenovo"
+  },
+  {
+    "id": 5,
+    "name": "Acer A115-32-C96U",
+    "image": "https://m.media-amazon.com/images/I/71wDgtnkHwL._AC_SL1500_.jpg",
+    "description": "Acer Aspire 1 A115-32-C96U Slim Laptop | 15.6 Full HD Display | Intel Celeron N4500 Processor | 4GB DDR4 | 128GB eMMC | WiFi 5 | Microsoft 365 Personal 1-Year Subscription | Windows 11 Home in S mode",
+    "price": "$229.99",
+    "category": "Acer"
+  },
+  {
+    "id": 6,
+    "name": "HP 17-cn0025nr",
+    "image": "https://m.media-amazon.com/images/I/71Jsnu1EdrL._AC_SL1500_.jpg",
+    "description": "HP 17-inch Laptop, 11th Generation Intel Core i5-1135G7, Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (17-cn0025nr,Natural Silver)",
+    "price": "$576.99",
+    "category": "HP"
+  },
+  {
+    "id": 7,
+    "name": "Flex 5",
+    "image": "https://m.media-amazon.com/images/I/718cys6JGoL._AC_SL1500_.jpg",
+    "description": "Lenovo IdeaPad Flex 5-2023 - Touchscreen 2-in-1 Laptop - Windows 11 Home - 14 FHD Display - 16GB Memory - 512GB Storage - AMD Ryzen 5 5500U - Abyss Blue",
+    "price": "$592.73",
+    "category": "Lenovo"
+  },
+  {
+    "id": 8,
+    "name": "A315-24P-R7VH",
+    "image": "https://m.media-amazon.com/images/I/71+1lOl1Y1L._AC_SL1500_.jpg",
+    "description": "Acer Aspire 3 A315-24P-R7VH Slim Laptop | 15.6 Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode",
+    "price": "$329.99",
+    "category": "Acer"
+  },
+  {
+    "id": 9,
+    "name": "XPS 9720",
+    "image": "https://m.media-amazon.com/images/I/61JnE2TPyuL._AC_SL1251_.jpg",
+    "description": "Dell 2023 XPS 9720 17 UHD+ Touchscreen Laptop PC 12th Intel 14-Core i7-12700H NVIDIA RTX 3060 6GB GDDR6 64GB DDR5 2TB NVMe SSD WiFi 6E 4xThunderbolt4 Backlit KB Fingerprint Windows 11 Pro",
+    "price": "$3016.85",
+    "category": "Dell"
+  },
+  {
+    "id": 10,
+    "name": "Swift X",
+    "image": "https://m.media-amazon.com/images/I/71d5rAq4YaL._AC_SL1500_.jpg",
+    "description": "Acer Swift X SFX14-41G-R1S6 Creator Laptop | 14 Full HD 100% sRGB | AMD Ryzen 7 5800U | NVIDIA RTX 3050Ti GPU | 16GB LPDDR4X | 512GB SSD | Wi-Fi 6 | Backlit KB | Amazon Alexa | Windows 10 Home",
+    "price": "$898.63",
+    "category": "Acer"
+  },
+  {
+    "id": 11,
+    "name": "AV15 51",
+    "image": "https://m.media-amazon.com/images/I/81XIwlF8sxL._AC_SL1500_.jpg",
+    "description": "Acer Aspire Vero AV15-51-7617 Green PC | 15.6 FHD IPS 100% sRGB-Display | 11th Gen Intel Core i7-1195G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB NVMe SSD | Wi-Fi 6 | PCR Materials | Vero-Sleeve",
+    "price": "$649.99",
+    "category": "Acer"
+  },
+  {
+    "id": 12,
+    "name": "MacBook Pro",
+    "image": "https://m.media-amazon.com/images/I/61bX2AoGj2L._AC_SL1500_.jpg",
+    "description": "Apple 2022 MacBook Pro Laptop with M2 chip: 13-inch Retina Display, 8GB RAM, 512GB SSD Storage, Touch Bar, Backlit Keyboard, FaceTime HD Camera. Works with iPhone and iPad; Silver",
+    "price": "$1143",
+    "category": "Apple"
+  },
+  {
+    "id": 13,
+    "name": "XPS 13 Laptop",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=575&qlt=100,1&resMode=sharp2&size=575,402&chrss=full",
+    "description": "13-inch XPS is built for a lifestyle on the move. Expect long battery life when streaming on the Netflix app for Windows 11: the FHD+ non-touch display",
+    "price": "$1099",
+    "category": "Dell"
+  },
+  {
+    "id": 14,
+    "name": "Dell Inspiron 14 7430",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/d/e/dell_7430-07-30_at_12.16.32_am.jpg",
+    "description": "13th Gen Core i5 1335u Deca-Core Processor 08GB 512GB SSD Intel Iris Xe Graphics 14 Full HD+ 1200p IPS Touchscreen Convertible DIsplay Backlit KB FP Reader DolbyAtmos Audio W11 (Platinum Silver, NEW)",
+    "price": "$2075",
+    "category": "Dell"
+  },
+  {
+    "id": 15,
+    "name": "Dell Latitude 13 5330",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/s/c/screenshot_2023-01-28_at_6.42.25_pm.png",
+    "description": "12th Gen Core i5 1245u vPro Processor 16GB 512GB SSD Intel Iris Xe Graphics 13.3 Full HD 1080p AG ComfortView+ WVA 400nits Display WavesMaxx Audio Backlit KB W11 Pro (Silver) (New)",
+    "price": "$1.070",
+    "category": "Dell"
+  },
+  {
+    "id": 16,
+    "name": "Lenovo IdeaPad 5 15",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/4/1/41u5jlcp7ol._ac_-min.jpg",
+    "price": "$2000",
+    "category": "Lenovo"
+  },
+  {
+    "id": 17,
+    "name": "Lenovo LEGION 5",
+    "image": "https://www.mega.pk/items_images/Dell+XPS+15+9520+Core+i9+12th+Generation+32GB+RAM+1TB+SSD+4GB+RTX+3050Ti+Touch+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23898.jpg",
+    "description": "Lenovo XPS 15 9520 Core i9 12th Generation 32GB RAM 1TB SSD 4GB RTX 3050Ti Touch Windows 11",
+    "price": "$4900",
+    "category": "Lenovo"
+  },
+  {
+    "id": 18,
+    "name": "Apple Macbook Air 15",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/m/q/mqkw3_15_inch_macbook_price_in_pakistan.jpg",
+    "description": "Apple M2 Chip 8 Core CPU 10 Core GPU 8GB 256GB SSD 15.3 IPS Retina Display with True Tone Backlit Magic Keyboard Touch ID (Midnight, 2023)",
+    "price": "$8900",
+    "category": "Apple"
+  },
+  {
+    "id": 19,
+    "name": "Apple Macbook Air 13",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/a/p/apple-macbook-air-mly33-13.6inch-m2-chip-midnight-laptop-rates-in-pakistan.jpg",
+    "description": "Apple M2 Chip 8-Core CPU 8-Core GPU 08GB 256GB SSD 13.6 Liquid Retina IPS Display With True Tone Backlit Magic Keyboard Touch ID & Force Touch Trackpad (Midnight, 2022)",
+    "price": "$8980",
+    "category": "Apple"
+  },
+  {
+    "id": 20,
+    "name": "Apple Macbook Pro 16",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/m/n/mnw93_price_in_pakistan.jpg",
+    "description": "Apple M2 Pro Chip 12 Core CPU 19 Core GPU 16GB 1 Terabyte SSD 16.2 Liquid Retina XDR Display Backlit Magic Keyboard Touch ID (Space Gray, 2022)",
+    "price": "$8000",
+    "category": "Apple"
+  },
+  {
+    "id": 21,
+    "name": "HP 15-an008 Star Wars",
+    "image": "https://www.mega.pk/items_images/HP+15-an008+Star+Wars+Special+Edition+Price+in+Pakistan%2C+Specifications%2C+Features_-_13659.jpg",
+    "description": "Processor Intel Core i5,Installed RAM 8 GB,Screen Size 15.6.Operating System Window 10",
+    "price": "$9999",
+    "category": "Special Edition"
+  },
+  {
+    "id": 22,
+    "name": "Dell G15 5511",
+    "image": "https://mrlaptop.pk/wp-content/uploads/2022/01/Dell-G15-5511-Special-Edition-ci7.jpg",
+    "description": "Dell G15 5511 Special Edition Gaming Laptop – Intel Core i7 11800H (up to 4.60 GHz max boost clock, 24 MB Intel® Smart Cache, 8 cores, 16 threads) – 16GB RAM DDR4 – 512GB SSD – 6GB Nvidia GeForce RTX 3060 -15.6 inch FHD (165Hz) 300 nits WVA Anti- Glare LED-Backlit Narrow Border Display – Orange Backlit KB – Windows 10 -Black",
+    "price": "$25000",
+    "category": "Special Edition"
+  },
+  {
+    "id": 23,
+    "name": "Dell G15 (5521) ",
+    "image": "https://i.gadgets360cdn.com/products/large/dell-g15-2251-db-964x800-1652701458.jpg?downsize=*:180",
+    "description": "Dell G15 (5521) Special Edition is a Windows 11 laptop with a 15.60-inch display that has a resolution of 2560x1440 pixels. It is powered by a Core i7 processor and it comes with 16GB of RAM.",
+    "price": "$12899",
+    "category": "Special Edition"
+  },
+  {
+    "id": 24,
+    "name": "HP Victus 16 E Series",
+    "image": "https://i.gadgets360cdn.com/products/large/HP-Victus-DB-897x800-1627278526.jpg?downsize=*:180",
+    "description": "HP Victus 16 E Series is a Windows 10 laptop with a 16.10-inch display that has a resolution of 1920x1080 pixels. It is powered by a Ryzen 5 processor and it comes with 8GB of RAM. The HP Victus 16 E Series packs 512GB of SSD storage.",
+    "price": "$14799",
+    "category": "Special Edition"
+  },
+  {
+    "id": 25,
+    "name": "HP 16-e0076AX",
+    "image": "https://m.media-amazon.com/images/I/71h7F81EBoS._SL1500_.jpg",
+    "description": "HP Victus AMD Ryzen 5 5600H 16.1 inches(40cm) FHD Gaming Laptop (8GB RAM/512GB SSD/4GB RTX 3050 Graphics/Flicker Free Display/Windows 10 Home/MS Office/Mica...",
+    "price": "$16599",
+    "category": "Special Edition"
+  },
+  {
+    "id": 26,
+    "name": "Acer TUF Gaming F15 (2021)",
+    "image": "https://m.media-amazon.com/images/I/51pwFj984WL._SX300_SY300_QL70_FMjpg_.jpg",
+    "description": "Acer TUF Gaming F15 (2021), 15.6 (39.62 cms) FHD 144Hz, Intel Core i5-10300H 10th Gen, GTX 1650 4GB Graphics, Gaming Laptop (8GB RAM/512GB NVMe SSD/Windows 11/Black/2.30 Kg), FX506LH-HN258W",
+    "price": "$15299",
+    "category": "Special Edition"
+  },
+  {
+    "id": 27,
+    "name": "Inspiron 7420",
+    "image": "https://m.media-amazon.com/images/I/41tRIAB4WuL._SX300_SY300_QL70_FMjpg_.jpg",
+    "description": "Dell Inspiron 7420 2in1 Touch Laptop,12th Gen Intel Core i3-1215U, 8GB/256GB SSD/14.0 (35.56Cms) FHD+ WVA 250 nits/Backlit KB + FPR/Windows 11 + MSO'21/15 Month McAfee/Platinum Silver/1.57KG",
+    "price": "$13399",
+    "category": "Special Edition"
+  },
+  {
+    "id": 28,
+    "name": "HP Chromebook",
+    "image": "https://m.media-amazon.com/images/I/41ZNnzygWaL._SX300_SY300_QL70_FMjpg_.jpg",
+    "description": "HP Chromebook x360 Intel Celeron N4120 14 inch(35.6 cm) Micro-Edge, Touchscreen, 2-in-1 Laptop (4GB RAM/64GB eMMC/Chrome OS 64/UHD Graphics,1.49kg), 14a-ca0504TU",
+    "price": "$14299",
+    "category": "Special Edition"
+  },
+  {
+    "id": 29,
+    "name": "Lenovo E41-55",
+    "image": "https://m.media-amazon.com/images/I/31-EMEvzUHL._SY300_SX300_QL70_FMjpg_.jpg",
+    "description": "Lenovo E41-55 AMD 14-inch HD 220 Nits Antiglare Thin and Light Laptop (AMD Athlon A3050U/4GB RAM/256GB SSD/DOS/Integrated AMD Graphics/Grey/1 Year Onsite/1.59 kg),82FJ00BDIH / 82FJ00BEIH",
+    "price": "$21299",
+    "category": "Special Edition"
+  },
+  {
+    "id": 30,
+    "name": "Yoga Slim 7 Pro 14IHU5",
+    "image": "https://m.media-amazon.com/images/I/51qc8kHeThL._SY300_SX300_QL70_FMjpg_.jpg",
+    "description": "Lenovo Yoga Slim 7 Pro Intel Evo Core i5-11320H, 14 (35.6cm)2.8K 400nits Thin & Light Laptop(16GB/512GB SSD/Win11/Office 2021/90Hz/Backlit/3Yr Brand Warranty/Slate Grey/Metal Surface/1.3Kg),82NC00EWIN",
+    "price": "$18879",
+    "category": "Special Edition"
+  },
+  {
+    "id": 31,
+    "name": "Hp Victus",
+    "image": "https://www.mega.pk/items_images/ts_24578.jpg",
+    "description": "Hp Victus Gaming 16 D1003 Core i7 12th Generation 16GB RAM 1TB SSD 4GB RTX 3050Ti DOS",
+    "price": "$48533.3 ",
+    "category": "HP"
+  },
+  {
+    "id": 32,
+    "name": "HP ENVY 15",
+    "image": "https://www.mega.pk/items_images/ts_24455.jpg",
+    "description": "HP ENVY 15 FE0053DX Core i7 13th Generation 16GB RAM 512GB SSD Touch X360 Windows 11 New",
+    "price": "$12452.00",
+    "category": "HP"
+  },
+  {
+    "id": 33,
+    "name": "Dell G15 5530",
+    "image": "https://www.mega.pk/items_images/Dell+G15+5520+Gaming++Core+i7+12th+Generation+16GB+RAM+512GB+SSD+6GB+NVIDIA+RTX3060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23608.jpg",
+    "description": "Dell G15 5530 Core i7 13th Generation 16GB RAM 512GB SSD 6GB RTX 4050 Windows 11 New",
+    "price": "$19010.00",
+    "category": "Dell"
+  },
+  {
+    "id": 34,
+    "name": "Dell XPS 15 9520",
+    "image": "https://www.mega.pk/items_images/Dell+XPS+15+9520+Core+i7+12th+Generation+16GB+RAM+1TB+SSD+4GB+RTX+3050Ti+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24435.jpg",
+    "description": "Dell XPS 15 9520 Core i7 12th Generation 16GB RAM 1TB SSD 4GB RTX 3050Ti Windows 11 New",
+    "price": "$19000.00",
+    "category": "Dell"
+  },
+  {
+    "id": 35,
+    "name": "Dell XPS 15 9530 ",
+    "image": "https://www.mega.pk/items_images/Dell+XPS+15+9530+Core+i9+13th+Generation+32GB+RAM+1TB+SSD+8GB+RTX+4070+Touch+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24433.jpg",
+    "description": "Dell XPS 15 9530 Core i9 13th Generation 32GB RAM 1TB SSD 8GB RTX 4070 Touch Windows 11 New",
+    "price": "$20100.00",
+    "category": "Dell"
+  },
+  {
+    "id": 36,
+    "name": "Dell G16 7620",
+    "image": "https://www.mega.pk/items_images/Dell+G16+7620+Core+i7+12th+Generation+16GB+RAM+1TB+SSD+6GB+RTX+3060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24131.jpg",
+    "description": "Dell G16 7620 Core i7 12th Generation 16GB RAM 1TB SSD 6GB RTX 3060 Windows 11 New",
+    "price": "$749.00",
+    "category": "Dell"
+  },
+  {
+    "id": 37,
+    "name": "Dell Alienware M15",
+    "image": "https://www.mega.pk/items_images/Dell+Alienware+M15+R7+Core+i7+12th+Generation+16GB+RAM+1TB+SSD+8GB+RTX+3070Ti+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24117.jpg",
+    "description": "Dell Alienware M15 R7 Core i7 12th Generation 16GB RAM 1TB SSD 8GB RTX 3070Ti Windows 11 New",
+    "price": "$717.00",
+    "category": "Dell"
+  },
+  {
+    "id": 38,
+    "name": "Apple Macbook Pro 14",
+    "image": "https://www.mega.pk/items_images/Apple+Macbook+Pro+14+MPHG3+M2+Max+Chip+12+Core+CPU+30+Core+GPU+32GB+RAM+1TB+SSD+GREY+Price+in+Pakistan%2C+Specifications%2C+Features_-_23958.jpg",
+    "description": "Apple Macbook Pro 14 MPHG3 M2 Max Chip 12 Core CPU 30 Core GPU 32GB RAM 1TB SSD GREY New",
+    "price": "$23200.00",
+    "category": "Apple"
+  },
+  {
+    "id": 39,
+    "name": "Acer Nitro 5",
+    "image": "https://static3.webx.pk/files/4012/Images/Thumbnails-Large/711fqlyognl.-ac-sl1500--4012-1805688-190723121807649.jpg",
+    "description": "Acer Nitro 5 AN515-58-74NJ Gaming Laptop 12th Gen Core i7-12650H, 16GB DDR5, 512GB SSD, NVIDIA RTX 4050 6GB Graphics, 15.6 FHD IPS 144Hz, Windows 11 Home, 1 Year Local Warranty",
+    "price": "$35899.00",
+    "category": "Acer"
+  },
+  {
+    "id": 40,
+    "name": "Acer RAIDER GE78HX",
+    "image": "https://www.mega.pk/items_images/MSI+RAIDER+GE78HX+13VH+17+Core+i9+13th+Generation+32GB+RAM+2TB+SSD+12GB+RTX+4080+Windows+11+Pro+Price+in+Pakistan%2C+Specifications%2C+Features_-_24201.jpg",
+    "description": "MSI RAIDER GE78HX 13VH 17 Core i9 13th Generation 32GB RAM 2TB SSD 12GB RTX 4080 Windows 11 Pro New",
+    "price": "$38000.00",
+    "category": "Acer"
+  },
+  {
+    "id": 41,
+    "name": "Acer RAIDER GE66",
+    "image": "https://www.mega.pk/items_images/MSI+Raider+GE66+12UHS+Core+i7+12th+Generation+32GB+RAM+1TB+SSD+16GB+RTX+3080Ti+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24138.jpg",
+    "description": "MSI Raider GE66 12UHS Core i7 12th Generation 32GB RAM 1TB SSD 16GB RTX 3080Ti Windows 11 New",
+    "price": "$44000.00",
+    "category": "Acer"
+  },
+  {
+    "id": 42,
+    "name": "Acer SWORD A12UE",
+    "image": "https://www.mega.pk/items_images/MSI+SWORD+A12UE+Core+i7+12th+Generation+16GB+RAM+1TB+SSD+6GB+NVIDIA+RTX3060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23906.jpg",
+    "description": "MSI SWORD A12UE Core i7 12th Generation 16GB RAM 1TB SSD 6GB NVIDIA RTX3060 Windows 11",
+    "price": "$28000.00",
+    "category": "Acer"
+  },
+  {
+    "id": 43,
+    "name": "Lenovo ThinkPad E15",
+    "image": "https://www.mega.pk/items_images/ts_23721.jpg",
+    "description": "Lenovo ThinkPad E15 G4 Core i7 12th Generation 8GB RAM 512GB SSD DOS",
+    "price": "$19999.00",
+    "category": "Lenovo"
+  },
+  {
+    "id": 44,
+    "name": "Lenovo ThinkPad E15",
+    "image": "https://www.mega.pk/items_images/Lenovo+ThinkPad+E15+G4+Core+i5+12th+Generation+8GB+RAM+256GB+SSD+DOS+Price+in+Pakistan%2C+Specifications%2C+Features_-_23711.jpg",
+    "description": "Lenovo ThinkPad E15 G4 Core i5 12th Generation 8GB RAM 256GB SSD DOS",
+    "price": "$20599.00",
+    "category": "Lenovo"
+  },
+  {
+    "id": 45,
+    "name": "Lenovo Legion 5",
+    "image": "https://www.mega.pk/items_images/Lenovo+Legion+5+Core+i7+12th+Generation+16GB+RAM+512GB+SSD+8GB+NVIDIA+RTX+3070+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23408.jpg",
+    "description": "Lenovo Legion 5 Core i7 12th Generation 16GB RAM 512GB SSD 8GB NVIDIA RTX 3070 Windows 11 New",
+    "price": "$16799.00",
+    "category": "Lenovo"
+  },
+  {
+    "id": 46,
+    "name": "Dell XPS 15",
+    "image": "https://www.mega.pk/items_images/Dell+XPS+15+9520+Core+i9+12th+Generation+32GB+RAM+1TB+SSD+4GB+RTX+3050Ti+Touch+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23898.jpg",
+    "description": "Dell XPS 15 9520 Core i9 12th Generation 32GB RAM 1TB SSD 4GB RTX 3050Ti Touch Windows 11 New",
+    "price": "$21899.00",
+    "category": "Dell"
+  },
+  {
+    "id": 47,
+    "name": "HP OMEN 16",
+    "image": "https://www.mega.pk/items_images/HP+OMEN+16+N0023DX+Ryzen+7+16GB+RAM+512GB+SSD+6GB+RTX3060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24189.jpg",
+    "description": "HP OMEN 16 N0023DX Ryzen 7 16GB RAM 512GB SSD 6GB RTX3060 Windows 11",
+    "price": "$25699.00",
+    "category": "HP"
+  },
+  {
+    "id": 48,
+    "name": "Acer Helios Neo 16",
+    "image": "https://www.mega.pk/items_images/Acer+Predator+Helios+Neo+16+PHN16+Core+i7+13th+Generation+16GB+RAM+1TB+SSD+8GB+RTX+4060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24415.jpg",
+    "description": "Acer Predator Helios Neo 16 PHN16 Core i7 13th Generation 16GB RAM 1TB SSD 8GB RTX 4060 Windows 11 New",
+    "price": "$22899.00",
+    "category": "Acer"
+  },
+  {
+    "id": 49,
+    "name": "Acer ROG Strix G16",
+    "image": "https://www.mega.pk/items_images/ASUS+ROG+Strix+G16+Core+i7+13th+Generation+16GB+Ram+512GB+SSD+8GB+NVIDIA+RTX4060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24370.jpg",
+    "description": "Acer ROG Strix G16 Core i7 13th Generation 16GB Ram 512GB SSD 8GB NVIDIA RTX4060 Windows 11 New",
+    "price": "$23799.00",
+    "category": "Acer"
+  },
+  {
+    "id": 50,
+    "name": "Dell G15 5530",
+    "image": "https://www.mega.pk/items_images/ts_24436.jpg",
+    "description": "Dell G15 5530 Core i7 13th Generation 16GB RAM 512GB SSD 6GB RTX 4050 Windows 11 New",
+    "price": "$32099.00",
+    "category": "Dell"
+  },
+  {
+    "id": 51,
+    "name": "Acer TUF A15",
+    "image": "https://www.mega.pk/items_images/Asus+TUF+A15+FX507+Ryzen+9+16GB+RAM+512GB+SSD+8GB+RTX+4060+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_24407.jpg",
+    "description": "Acer TUF A15 FX507 Ryzen 9 16GB RAM 512GB SSD 8GB RTX 4060 Windows 11",
+    "price": "$35699.00",
+    "category": "Acer"
+  },
+  {
+    "id": 52,
+    "name": "Acer Aspire A515-57-53F",
+    "image": "https://laptopmall.pk/storage/media/FrWfZqHh5EI84yuWfnjahgDBqhglRZwRdGmE7NLY.jpg",
+    "description": "Acer Aspire A515-57-53F is a powerful laptop with an 12th generation Intel Core i5 processor, 8GB of RAM, and a 256GB SSD, providing fast and efficient performance for a range of computing tasks. It also features a 15.6-inch Full HD IPS display,",
+    "price": "$38699.00",
+    "category": "Acer"
+  },
+
+  {
+    "id": 53,
+    "name": "Dell Latitude 14 5440",
+    "image": "https://m.media-amazon.com/images/I/71ZUFlO6wsL._AC_UY218_.jpg",
+    "description": "Dell Latitude 14 5440 - Raptor Lake - 13th Gen Core i7 1355u Processor 8-GB 512GB SSD Intel UHD Graphics 14 Full HD 1080p AG IPS 250nits Display Backlit KB WavesMaxx Audio FP Reader (Dell Backpack, 3 Years Dell Direct Local Warranty, NEW)",
+    "price": "$389.99",
+    "category": "HP"
+  },
+  {
+    "id": 54,
+    "name": "HP 15s EQ2179AU",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/s/c/screenshot_2022-09-15_at_1.14.57_am.png",
+    "description": "HP 15s EQ2179AU - AMD Ryzen 3 5300U QuadCore Processor 04GB to 32GB 256GB to 02-TB SSD AMD Radeon Graphics 15.6 HD 720p MicroEdge BV 250nits Display TPM W11 (Pale Gold, HP Direct Local Warranty)",
+    "price": "$120.99",
+    "category": "HP"
+  },
+ 
+  {
+    "id": 55,
+    "name": "Lenovo V15 G3",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/5/1/51uei7geoql._ac_.jpg",
+    "description": "Lenovo V15 G3 - Alder Lake - 12th Gen Core i5 Processor 04GB to 36GB 256GB to 02-TB SSD Intel Integrated GC 15.6 Full HD 1080p Display DolbyAudio TPM2.0 (Business Black, Bag Included)",
+    "price": "$195.46",
+    "category": "Lenovo"
+  },
+  {
+    "id": 56,
+    "name": "Dell XPS 13 9310",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/7/1/71ghueorbkl._ac_sl1500_.jpg",
+    "description": "Dell XPS 13 9310 - Tiger Lake - 11th Gen Core i7 QuadCore 16GB 1-TB SSD Intel Iris Xe Graphics 13.4 FHD+ Touchscreen Infinity Edge Display Backlit KB FP Reader ThunderBolt-4 W11 (Platinum Silver, Open Box)",
+    "price": "$279.99",
+    "category": "Dell"
+  },
+  {
+    "id": 57,
+    "name": "HP 17-cn0025nr",
+    "image": "https://m.media-amazon.com/images/I/71Jsnu1EdrL._AC_SL1500_.jpg",
+    "description": "HP 17-inch Laptop, 11th Generation Intel Core i5-1135G7, Iris Xe Graphics, 8 GB RAM, 256 GB SSD, Windows 11 Home (17-cn0025nr,Natural Silver)",
+    "price": "$576.99",
+    "category": "HP"
+  },
+  {
+    "id": 58,
+    "name": "HP Victus 16 D0231TX",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/d/0/d0231_2023-08-31_at_1.45.40_pm.jpg",
+    "description": "HP Victus 16 D0231TX - Tiger Lake - 11th Gen Core i7 Octa-Core Processor 08GB to 64GB 512GB to 02-TB SSD 6-GB NVIDIA GeForce RTX3060 GDDR6 GC 16 Full HD 1080p IPS 144Hz 300nits MicroEdge Display Backlit KB B&O Play W10 (Ceramic White - Open Box)",
+    "price": "$288.73",
+    "category": "Lenovo"
+  },
+  {
+    "id": 59,
+    "name": "Acer Sword 15",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/m/s/msi-sword-12thgen-ci7-rtx3060-gaming-laptop-price-in-pakistan.jpg",
+    "description": "MSI Sword 15 - Alder Lake - 12th Gen Core i7 10-Cores Processor 16GB to 48GB 1-TB to 2-TB SSD 6-GB NVIDIA GeForce RTX3060 GDDR6 GC 15.6 Full HD 1080p 144Hz IPS Display Nahimic 3 Audio Backlit KB W11 (White)",
+    "price": "$369.99",
+    "category": "Acer"
+  },
+  {
+    "id": 60,
+    "name": "ASUS ROG Strix G16",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/7/1/71v0bqo8t8l._ac_sl1500_.jpg",
+    "description": "ASUS ROG Strix G16 G614JI - Raptor Lake - 13th Gen Core i9 13980HX (24 Cores) 16GB to 64GB 512GB to 02-TB SSD 8-GB NVIDIA GeForce RTX4070 GDDR6 GC 16 WUXGA IPS 165Hz G-Sync With DolbyVision HDR Display RGB Backlit KB DolbyAtmos Sound Aura-Sync W11 (New)",
+    "price": "$654.85",
+    "category": "Special Edition"
+  },
+  {
+    "id": 61,
+    "name": "HP Surface",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/s/u/surface_laptop_5_paklap.jpg",
+    "description": "HP Surface Laptop 5 - 12th Generation Core i5 1235u Processor 8GB 256GB SSD 13.5 PixelSense Gorilla Glass Display Win11 Home (Platinum)",
+    "price": "$898.63",
+    "category": "HP"
+  },
+  {
+    "id": 62,
+    "name": "HP Envy 16+",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/6/5/6537115ld.jpg",
+    "description": "HP Envy 16+ H1023dx - Raptor Lake - 13th Gen Core i9 13900H (14 Cores) Processor 16GB 1-TB SSD 8-GB NVIDIA GeForce RTX4060 GDDR6 GC 16 WQXGA IPS 120Hz Touchscreen Display B&O Play Backlit KB W11 (Natural Silver, NEW)",
+    "price": "$649.99",
+    "category": "HP"
+  },
+  {
+    "id": 63,
+    "name": "HP 15s FQ5287nia",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/f/q/fq5287_2023-08-24_at_5.03.27_pm.jpg",
+    "description": "HP 15s FQ5287nia - Alder Lake - 12th Gen Core i7 Processor 8GB to 32GB 512GB to 2-TB SSD Intel Shared Graphics 15.6 Full HD 1080p Micro Edge 250nits Display (Pale Gold) (New)",
+    "price": "$1143",
+    "category": "HP"
+  },
+  {
+    "id": 64,
+    "name": "HP Pavilion 15 EG2029TU",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/e/g/eg2029_ob-08-06_at_4.08.21_pm.jpg",
+    "description": "HP Pavilion 15 EG2029TU - Alder Lake - 12th Gen Core i7-1260P Processor 08GB to 32GB 512GB to 02-TB SSD Intel Integrated Graphics 15.6 Full HD 1080p IPS Touchscreen Display Backlit KB B&O Play FP Reader W11 (Fog Blue, Open Box)",
+    "price": "$1099",
+    "category": "HP"
+  },
+  {
+    "id": 65,
+    "name": "HP Envy 14s",
+    "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/6/5/6535747_sd_1.jpg",
+    "description": "HP Envy 14 x360 2 in 1 ES0013DX - Raptor Lake - 13th Gen Core i5 1335u Deca-Core Processor 8GB 512GB to 2-TB SSD Intel Iris Xe Graphics 14 Full HD 1080p MicroEdge 250nits Touchscreen Convertible Display B&O Play Backlit KB FP Reader W11 (Silver) (New)",
+    "price": "$2075",
+    "category": "HP"
+  },
+  {
+    "id": 66,
+    "name": "HP Pavilion Plus",
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07961336.png",
+    "description": "HP Pavilion Plus Laptop 14-eh0097nr, 14, Windows 11 Home, Intel® Core™ i7, 16GB RAM, 256GB SSD, 2.8K",
+    "price": "$1.070",
+    "category": "HP"
+  },
+  {
+    "id": 67,
+    "name": "ThinkPad X1 Carbon Gen 11 (14” Intel) Laptop",
+    "image": "https://p1-ofp.static.pub/fes/cms/2023/02/10/m2x90er7aq4issqfzku0vuli4086vv761445.png",
+    "description": "Screen Size 14.5 in Graphics Processing Type Integrated/On-Board Graphics RAM Size 16 GB MPN 21CB0064UK SSD Capacity 1 TB Most Suitable For Casual Computing GPU Intel Iris Xe Graphics Processor Speed 4.70GHz",
+
+    "price": "$2000",
+    "category": "Lenovo"
+  },
+  {
+    "id": 68,
+    "name": "ThinkPad X1 Carbon Gen 13 (14s” Intel) Laptop",
+    "image": "https://p4-ofp.static.pub/fes/cms/2023/02/10/7qjkk7h1a53t8jq5snivyzumxw040v193587.png",
+    "description": "Screen Size 14 in Graphics Processing Type Integrated/On-Board Graphics RAM Size 16 GB MPN 21CB0064UK SSD Capacity 1 TB Most Suitable For Casual Computing GPU Intel Iris Xe Graphics Processor Speed 4.70GHz",
+    "price": "$4900",
+    "category": "Lenovo"
+  },
+  {
+    "id":69,
+    "name": "ThinkPad X2 Carbon Gen 12 (15” Intel) Laptop",
+    "image": "https://p1-ofp.static.pub/ShareResource/na/products/thinkpad/560x450/lenovo-thinkpad-x1-carbon-gen-11-2023.png",
+    "description": "Screen Size 14.8 in Graphics Processing Type Integrated/On-Board Graphics RAM Size 16 GB MPN 21CB0064UK SSD Capacity 1 TB Most Suitable For Casual Computing GPU Intel Iris Xe Graphics Processor Speed 4.70GHz",
+    "price": "$8900",
+    "category": "Lenovo"
+  },
+  {
+    "id": 70,
+    "name": "Apple 2022 MacBook",
+    "image": "https://image-cdn.beforward.jp/autoparts/original/202211/83640658/i-img1200x900-1668664766yg9bha15.jpg",
+    "description": "Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone and iPad; Silver",
+    "price": "$8980",
+    "category": "Apple"
+  },
+  {
+    "id": 71,
+    "name": "Apple 2023 MacBook",
+    "image": "https://m.media-amazon.com/images/I/81b9m+BnkrL._AC_UF350,350_QL50_.jpg",
+    "description": "Apple 2023 MacBook Air Laptop with M2 chip: 15.3-inch Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Starlight",
+    "price": "$899",
+    "category": "Apple"
+  },
+  {
+    "id": 72,
+    "name": "Lenovo ThinkPad L460",
+    "image": "https://i.ebayimg.com/images/g/HHYAAOSw1~tk51bn/s-l1600.png",
+    "description": "Fast Cheap Gaming Laptop Intel i5 2.80 GHz 500GB SSD Win11 PRO 16GB RAM Computer",
+    "price": "$9999",
+    "category": "Lenovo"
+  },
+  {
+    "id": 73,
+    "name": "HP G15 5511",
+    "image": "https://cdn.mos.cms.futurecdn.net/7fhdrdEhVie6e5q4jJHFJS-970-80.jpeg",
+    "description": "HP G15 5511 Special Edition Gaming Laptop – Intel Core i7 11800H (up to 4.60 GHz max boost clock, 24 MB Intel® Smart Cache, 8 cores, 16 threads) – 16GB RAM DDR4 – 512GB SSD – 6GB Nvidia GeForce RTX 3060 -15.6 inch FHD (165Hz) 300 nits WVA Anti- Glare LED-Backlit Narrow Border Display – Orange Backlit KB – Windows 10 -Black",
+    "price": "$25000",
+    "category": "Special Edition"
+  },
+  {
+    "id": 74,
+    "name": " MSI Summit E13 Flip Evo ",
+    "image": "https://cdn.mos.cms.futurecdn.net/KnftpJtxR87Ti78rw9cFp9-970-80.jpg",
+    "description": "MSI Summit E13 Flip Evo  Edition is a Windows 11 laptop with a 15.60-inch display that has a resolution of 2560x1440 pixels. It is powered by a Core i7 processor and it comes with 16GB of RAM.",
+    "price": "$12899",
+    "category": "Special Edition"
+  },
+  {
+    "id": 75,
+    "name": "MSI Creator Z16P",
+    "image": "https://cdn.mos.cms.futurecdn.net/j2rQJVKH5udRVee2WifBLZ-970-80.jpg",
+    "description": "MSI Creator Z16P is a Windows 10 laptop with a 16.10-inch display that has a resolution of 1920x1080 pixels. It is powered by a Ryzen 5 processor and it comes with 8GB of RAM. The HP Victus 16 E Series packs 512GB of SSD storage.",
+    "price": "$14799",
+    "category": "Special Edition"
+  }
+
+]
